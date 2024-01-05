@@ -1,4 +1,4 @@
-<h1 align="center">binary_vaibs</h1>
+<h1 align="center">Embracing the Future: Exploring Binary Vibes in Tech and Culture</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
 [![An image of @vaibhav7219's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav7219)](https://holopin.io/@vaibhav7219)
