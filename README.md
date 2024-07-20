@@ -9,11 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav33458994" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav33458994?logo=twitter&style=for-the-badge" alt="vaibhav33458994" /></a> </p>
 
+- 💼 <a href="https://portfolio-vaibhav72.vercel.app/">Portfolio Link</a> 
+
 - 🔭 I’m currently working on **Amuse**
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 Currently working on **React.js, Next.js** skils.
 
-- 💬 Ask me about **System Design, Web Developement**
+- 💬 Ask me about **System Design, Web Developement, Software Development, UI/IX, Database Management**
 
 - 📫 How to reach me **work.vaibhav1308@gmail.com**
 
