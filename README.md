@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vaibhav Sonawane</h1>
-<h3 align="center">an aspiring Full Stack Developer passionate about creating innovative and efficient web solutions.</h3>
+<h3 align="center">Aspiring Software Developer with the urge to conquer limits. Passionate about coding, problem-solving, and continuous learning to drive innovation and excellence in the tech world. Eager to contribute to impactful projects and collaborate with dynamic teams to shape the future of technology.</h3>
 
 [![An image of @vaibhav7219's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav7219)](https://holopin.io/@vaibhav7219)
 
