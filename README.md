@@ -175,41 +175,35 @@ Kubernetes ███░░░░░░░░░░
 
 # 🌐 Connect With Me
 
-# 🌐 Connect With Me
+<p align="center">
 
-<p align="left">
+<a href="https://github.com/vaibhav7219">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-  <a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
-  </a>
-  
-  <a href="mailto:work.vaibhav1308@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
-  </a>
-  
-  <a href="https://leetcode.com/binary_vaibs" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
-  </a>
-  
-  <a href="https://dev.to/vaibhav7219" target="_blank">
-    <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="40"/>
-  </a>
-  
-  <a href="https://stackoverflow.com/users/25369425" target="_blank">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40"/>
-  </a>
-  
-  <a href="https://www.instagram.com/binary_vaibs/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
-  </a>
-  
-  <a href="https://x.com/vaibhav33458994" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
-  </a>
-  
-  <a href="https://github.com/vaibhav7219" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:work.vaibhav1308@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/binary_vaibs">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://dev.to/vaibhav7219">
+<img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
+
+<a href="https://stackoverflow.com/users/25369425">
+<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/binary_vaibs">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </p>
 
