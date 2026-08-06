@@ -123,7 +123,7 @@ Internal dashboards, SAP integrations, workflow automation and reporting tools.
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=duggu-dev13&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=duggu-dev13&theme=tokyonight&hide_border=true"/>
 
 </div>
 
