@@ -123,11 +123,11 @@ Internal dashboards, SAP integrations, workflow automation and reporting tools.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhav7219&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=duggu-dev13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7219&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggu-dev13&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav7219&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=duggu-dev13&theme=tokyonight&hide_border=true"/>
 
 </div>
 
