@@ -175,13 +175,42 @@ Kubernetes ███░░░░░░░░░░
 
 # 🌐 Connect With Me
 
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5"><img height="30px" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:work.vaibhav1308@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://leetcode.com/binary_vaibs"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
-<a href="https://dev.to/vaibhav7219"><img src="https://skillicons.dev/icons?i=devdotto"/></a>
-<a href="https://stackoverflow.com/users/25369425"><img src="https://skillicons.dev/icons?i=stackoverflow"/></a>
-<a href="https://www.instagram.com/binary_vaibs"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+
+  <a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
+  </a>
+  
+  <a href="mailto:work.vaibhav1308@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+  </a>
+  
+  <a href="https://leetcode.com/binary_vaibs" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+  </a>
+  
+  <a href="https://dev.to/vaibhav7219" target="_blank">
+    <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="40"/>
+  </a>
+  
+  <a href="https://stackoverflow.com/users/25369425" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40"/>
+  </a>
+  
+  <a href="https://www.instagram.com/binary_vaibs/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+  </a>
+  
+  <a href="https://x.com/vaibhav33458994" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
+  </a>
+  
+  <a href="https://github.com/vaibhav7219" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
+  </a>
+
 </p>
 
 ---
