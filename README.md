@@ -1,43 +1,203 @@
-<h1 align="center">Hi, I'm Vaibhav Sonawane</h1>
-<h3 align="justify">CS student who loves turning ideas into functional web applications. I spend most of my time working with JavaScript, Python, and C++, building projects with NextJS and focusing on creating interfaces that actually make sense to users. I enjoy the full stack—from database design with MongoDB to polishing the frontend experience. Always experimenting with new technologies and looking for opportunities to collaborate on meaningful projects.</h3>
+<div align="center">
 
-[![An image of @vaibhav7219's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav7219)](https://holopin.io/@vaibhav7219)
+# 👋 Hi, I'm Vaibhav Sonawane
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duggu-dev13&label=Profile%20views&color=0e75b6&style=flat" alt="duggu-dev13" /> </p>
+### 🚀 Full Stack Developer • AI/ML Learner • Software Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duggu-dev13" alt="duggu-dev13" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Building+Software+that+Solves+Real+Problems;Full+Stack+Developer;Learning+AI+%26+Machine+Learning;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/vaibhav33458994" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav33458994?logo=twitter&style=for-the-badge" alt="vaibhav33458994" /></a> </p>
-
-- 💼 <a href="https://portfolio-vaibhav72.vercel.app/">Portfolio Link</a> 
-
-- 🔭 I’m currently working on **Amuse**
-
-- 🌱 Currently working on **React.js, Next.js** skils.
-
-- 💬 Ask me about **System Design, Web Developement, Software Development, UI/IX, Database Management**
-
-- 📫 How to reach me **work.vaibhav1308@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vaibhav7219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhav7219" height="30" width="40" /></a>
-<a href="https://twitter.com/vaibhav33458994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav33458994" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav sonawane" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25369425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25369425" height="30" width="40" /></a>
-<a href="https://codesandbox.com/duggu-dev13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="duggu-dev13" height="30" width="40" /></a>
-<a href="https://www.instagram.com/binary_vaibs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binary_vaibs" height="30" width="40" /></a>
-<a href="https://www.behance.net/vaibhavsonawane11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vaibhavsonawane11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/binary_vaibs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="binary_vaibs" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vaibhavdsonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaibhavdsonawane" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/wa2RB49RBY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wa2RB49RBY" height="30" width="40" /></a>
+<p align="center">
+<a href="https://portfolio-vaibhav72.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:work.vaibhav1308@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://leetcode.com/binary_vaibs"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </p>
+![](https://komarev.com/ghpvc/?username=vaibhav7219&label=Profile+Views&color=22C55E&style=for-the-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duggu-dev13&show_icons=true&locale=en&layout=compact" alt="duggu-dev13" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duggu-dev13&show_icons=true&locale=en" alt="duggu-dev13" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duggu-dev13&" alt="duggu-dev13" /></p>
+# 💫 About Me
+
+I'm a **Computer Engineering student** from India passionate about building software that creates real impact.
+
+I enjoy working across the entire stack—from designing responsive interfaces to building scalable backend systems—and I'm currently transitioning into **Artificial Intelligence & Machine Learning** through hands-on, project-based learning.
+
+Recently, I completed my internship at **ABB India**, where I developed enterprise automation tools, SAP-integrated dashboards, and workflow solutions used internally by engineering teams.
+
+I believe in learning by building.
+
+---
+
+# 🚀 What I'm Doing
+
+- 🤖 Learning **Artificial Intelligence & Machine Learning**
+- 💻 Building Full Stack Applications
+- 📚 Practicing DSA regularly
+- 🧠 Learning System Design
+- ⚡ Exploring Computer Vision & Deep Learning
+- 🌱 Preparing for Software Engineer / AI Engineer roles
+
+---
+
+# 💼 Experience
+
+### Software Development Intern
+**ABB India Ltd.**
+
+- Built enterprise automation applications
+- Developed SAP integrated dashboards
+- Created workflow automation systems
+- Improved operational efficiency through internal tools
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode,postman" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 📦 StockPile
+Inventory Management System with authentication, dashboards, analytics and modern UI.
+
+---
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio built using HTML, CSS and JavaScript showcasing my projects and experience.
+
+---
+
+### 🤖 AI & Machine Learning Projects
+
+A growing collection of projects documenting my AI/ML learning journey.
+
+---
+
+### 🏢 Enterprise Automation (ABB)
+
+Internal dashboards, SAP integrations, workflow automation and reporting tools.
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhav7219&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7219&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav7219&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- 🏢 Software Development Intern @ ABB India
+- 🏅 Microsoft Learn — 3 Trophies & 16 Badges
+- 📜 NPTEL Certified (DBMS)
+- 📄 Published Research Paper
+- 🌐 Multiple Full Stack Projects
+- 🎓 Computer Engineering Student
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python ████████████████████
+
+Machine Learning ███████░░░░░░░
+
+Deep Learning ████░░░░░░░░░░░
+
+OpenCV █████░░░░░░░░░░░
+
+PyTorch ████░░░░░░░░░░░
+
+System Design ████████░░░░░
+
+Docker ███████░░░░░░
+
+Kubernetes ███░░░░░░░░░░
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become an AI Engineer
+- ✅ Build 15+ AI Projects
+- ✅ Master Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Contribute to Open Source
+- ✅ Crack a Product-Based Company
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vaibhav-sonawane-0216631a5"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:work.vaibhav1308@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://leetcode.com/binary_vaibs"><img src="https://cdn.simpleicons.org/leetcode"/></a>
+<a href="https://dev.to/vaibhav7219"><img src="https://cdn.simpleicons.org/devdotto"/></a>
+<a href="https://stackoverflow.com/users/25369425"><img src="https://cdn.simpleicons.org/stackoverflow"/></a>
+<a href="https://www.instagram.com/binary_vaibs"><img src="https://cdn.simpleicons.org/instagram"/></a>
+</p>
+
+---
+
+# 💚 Fun Fact
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</div>
